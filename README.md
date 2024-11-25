@@ -34,5 +34,6 @@ The system comprises two main components: NewsAgency and Subscriber.
 * The system should be scalable to handle a growing number of subscribers without compromising performance.
 * Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
-#UML DIAGRAM
+# UML DIAGRAM
+
 ![image](https://github.com/VinaSolitario/observerPattern/blob/main/UML_ObserverPattern.jpg)
